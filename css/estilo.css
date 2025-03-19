@@ -69,6 +69,14 @@ nav ul li a:hover {
     margin-bottom: 20px;
 }
 
+aside {
+    width: 350px;
+    float: right;
+    background: #ebe7dd;
+    padding-bottom: 30px;
+    margin-bottom: 20px;
+}
+
 section#visita {
     background: #cdc8b1;
     padding: 10px 27px 27px 27px;
@@ -94,7 +102,7 @@ article#mapa {
 article#exposicoes {
     float: left;
     width: 310px;
-    margin-left: 37px;
+    margin: 15px 0 0 25px;
 }
 
 article#historia {

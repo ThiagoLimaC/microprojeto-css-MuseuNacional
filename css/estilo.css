@@ -33,3 +33,30 @@ a:hover {
     background: url(../img/logo.png) no-repeat;
 }
 
+/* Barra de navegacao */
+
+header {
+    padding: 15px 0;
+    height: 55px;
+}
+
+nav ul {
+    list-style: none;
+    margin: 20px;
+    float: right;
+}
+
+nav ul li {
+    float: left;
+}
+
+nav ul li a:link {
+    display: block;
+    margin-right: 25px;
+    padding-bottom: 3px;
+    text-transform: uppercase;
+}
+
+nav ul li a:hover {
+    border-bottom: 1px solid #535858;
+}

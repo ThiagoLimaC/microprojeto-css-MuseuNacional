@@ -84,3 +84,53 @@ article#video {
     width: 310px;
     margin-left: 25px;
 }
+
+article#mapa {
+    float: left;
+    width: 310px;
+    margin-left: 37px;
+}
+
+article#exposicoes {
+    float: left;
+    width: 310px;
+    margin-left: 37px;
+}
+
+article#historia {
+    float: left;
+    width: 310px;
+    margin: 15px 0 0 37px;
+    text-align: justify;
+}
+
+section#galeria a {
+    display: block;
+    background: url(../img/fundo-foto.png) no-repeat;
+    float: left;
+    padding: 17px 15px 17px 15px;
+    margin: 10px 0 0 20px;
+}
+
+section#galeria img {
+    margin-left: 2px;
+    margin-top: 3px;
+}
+
+h4 {
+    color: #86521a;
+    text-transform: uppercase;
+    padding-bottom: 3px;
+    margin-bottom: 0;
+}
+
+h3 {
+    color: #227115;
+    font-size: 1.0em;
+    margin-bottom: 15px;
+    text-transform: uppercase;
+}
+
+/* Rodape */
+
+footer
